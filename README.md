@@ -19,7 +19,7 @@ jika ingin menginstall nya secara manual juga bisa.
    $ apt install figlet
 
 dan kamu juga bisa melihat cara install dan menggunakannya di channel youtube/blog kami
-   Youtube : Pausi Channel
-   Blog : https://zeerx7.blogspot.com
+    Youtube : Pausi Channel
+    Blog : https://zeerx7.blogspot.com
 
 good luck : )
