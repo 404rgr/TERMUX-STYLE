@@ -56,6 +56,13 @@ exit();
 echo "[+] sudah terinstall ...\n";
 sleep(0.6);
 }
+if(!cek('figlet')){
+   system("pkg install figlet -y")
+exit();
+}else{
+echo "[+] sudah terinstall ...\n";
+sleep(0.6);
+}
 if(!cek('toilet')){
    system("pkg install toilet");
 exit();
