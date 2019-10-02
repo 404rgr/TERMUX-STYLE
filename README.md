@@ -13,11 +13,11 @@ sebenarnya masih ada pack yang harus di install namun saya mensetings tools nya 
 
 jika ingin menginstall nya secara manual juga bisa.
    
-   $ apt install ruby
-   $ gem intall lolcat
-   $ apt install toilet
-   $ apt install lolcat
-   $ apt install figlet
+    $ apt install ruby
+    $ gem intall lolcat
+    $ apt install toilet
+    $ apt install lolcat
+    $ apt install figlet
 
 
 dan kamu juga bisa melihat cara install dan menggunakannya di channel youtube/blog kami
