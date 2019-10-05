@@ -61,7 +61,7 @@ echo "[+] sudah terinstall ...\n";
 sleep(0.6);
 }
 if(!cek('toilet')){
-   system("pkg install toilet");
+   system("pkg install toilet -y");
 }else{
 echo "[+] sudah terinstall ...\n";
 sleep(1);
