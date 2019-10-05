@@ -7,6 +7,8 @@ ubah tampilan termux Anda menjadi lebih baik.
     $ apt install git
     $ apt install php
     $ git clone https://github.com/404rgr/TERMUX-STYLE
+    $ cd TERMUX-STYLE
+    $ php TERMUX-STYLE
 
 itu mudah, bukan?
 sebenarnya masih ada pack yang harus di install namun saya mensetings tools nya untuk check pack lainnya yang di butuhkan...
