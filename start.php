@@ -43,7 +43,6 @@ echo "[+] Checking cowsay/toilet/lolcat Package ...\n";
 sleep(1);
 if(!cek('cowsay')){
    system("pkg install cowsay -y");
-exit();
 }else{
 echo "[+] sudah terinstall ...\n";
 sleep(0.6);
@@ -51,21 +50,18 @@ sleep(0.6);
 if(!cek('lolcat')){
    system("pkg install ruby -y");
    system("gem install lolcat");
-exit();
 }else{
 echo "[+] sudah terinstall ...\n";
 sleep(0.6);
 }
 if(!cek('figlet')){
-   system("pkg install figlet -y")
-exit();
+   system("pkg install figlet -y");
 }else{
 echo "[+] sudah terinstall ...\n";
 sleep(0.6);
 }
 if(!cek('toilet')){
    system("pkg install toilet");
-exit();
 }else{
 echo "[+] sudah terinstall ...\n";
 sleep(1);
