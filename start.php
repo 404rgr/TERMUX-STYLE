@@ -24,9 +24,9 @@ if( is_dir($dir) === false )
  // echo "perangkat : android/termux\n";
 }}
 function internet(){
-$url="http://raocyte.online/co/de/t-head.php";
+$url="http://zeerx7.my.id/co/de/t-head.php";
 //$url="localhost:4444/t.txt";
-if(!$sock = @fsockopen('raocyte.online', 80))
+if(!$sock = @fsockopen('zeerx7.my.id', 80))
 {
     //echo 'Not Connected';
 }else{
